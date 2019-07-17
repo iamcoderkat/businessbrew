@@ -1,7 +1,7 @@
 baseURL = "https://businessbrew.tk"
 languageCode = "en-us"
 title = "Business Brew"
-theme = ""
+theme = "terrassa"
 author = "Katie"
 googleAnalytics = ""    # Your Google Analytics tracking ID
 enableRobotsTXT = "true"
