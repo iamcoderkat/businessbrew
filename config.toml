@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Business Brew"
 theme = "terrassa"
 author = "Katie"
-googleAnalytics = ""    # Your Google Analytics tracking ID
+googleAnalytics = "UA-144010166-1"    # Your Google Analytics tracking ID
 enableRobotsTXT = "true"
 paginate = "10"  
 
