@@ -1,4 +1,4 @@
-baseURL = "https://businessbrew.tk"
+baseURL = "https://businessbrew.netlify.com/"
 languageCode = "en-us"
 title = "Business Brew"
 theme = "terrassa"
