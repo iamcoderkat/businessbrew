@@ -1,0 +1,81 @@
+baseURL = "https://businessbrew.tk"
+languageCode = "en-us"
+title = "Business Brew"
+theme = ""
+author = "Katie"
+googleAnalytics = ""    # Your Google Analytics tracking ID
+enableRobotsTXT = "true"
+paginate = "10"  
+
+[params.footer]
+  email = ""
+  phone = ""
+
+[params.contact]
+    email = "kat.udacity@gmail.com"
+
+[params.social]
+    linkedin = "https://ph.linkedin.com/in/katrina-coloso-kate"
+    facebook = "https://www.facebook.com/Business-Brew-457703445008087/"
+    github = "https://github.com/kylemobilecoder"  
+    gitlab = ""
+    codepen = ""
+    instagram = ""
+    pinterest = ""
+    youtube = ""
+    weibo = ""
+    mastodon = ""
+    tumblr = ""
+    flickr = ""
+    "500px" = ""
+
+[params]
+    description = "" # Description for the meta description tag
+    favicon = "favicon.png"     # Relative URL for your favicon
+    logo = "star.png"        # Absolute URL for your logo
+
+[params.cta] # Call To Action 
+    show = true
+    cta = "Contact"  # Text message of the CTA
+    link = "contact" # Relative URL
+
+[params.form]
+    netlify = true # Only if you are using Netlify
+    action = ""
+    method = ""
+    inputNameName = ""
+    inputNameLabel = "Name"
+    inputNamePlaceholder = ""
+    inputEmailName = ""
+    inputEmailLabel = "Email"
+    inputEmailPlaceholder = ""
+    inputMsgName = ""
+    inputMsgLabel = "Message"
+    inputMsgLength = 750
+    inputSubmitValue = "Send"
+
+[params.posts]
+    showAuthor = true
+    showDate = true
+    showTags = true
+    dateFormat = "Jan 9, 2006"
+
+[privacy]
+    [privacy.googleAnalytics]
+        anonymizeIP = true
+        disable = false
+        respectDoNotTrack = true
+        useSessionStorage = false
+    [privacy.instagram]
+        disable = false
+        simple = false
+    [privacy.twitter]
+        disable = false
+        enableDNT = true
+        simple = false
+    [privacy.vimeo]
+        disable = false
+        simple = false
+    [privacy.youtube]
+        disable = false
+        privacyEnhanced = true
